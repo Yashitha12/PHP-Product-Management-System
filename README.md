@@ -32,7 +32,7 @@ A lightweight, modular **Product Management System** built with PHP and MySQL. T
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/php-product-management.git
+git clone [https://github.com/yourusername/php-product-management.git](https://github.com/Yashitha12/PHP-Product-Management-System.git)
 cd php-product-management
 ```
 
