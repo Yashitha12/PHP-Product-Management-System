@@ -125,7 +125,7 @@ The provided `user_auth.sql` includes:
 - [ ] Add CSRF protection
 - [ ] Input validation & sanitization
 - [ ] Pagination for product list
-- [ ] Add product categories & tags
+- [✅] Add product categories & tags
 - [ ] Role-based permissions
 
 ---
