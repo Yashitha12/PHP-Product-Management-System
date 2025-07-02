@@ -139,7 +139,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## ✍️ Author
 
 Yashitha Dissanayaka   
-GitHub: [[@yourusername](https://github.com/yourusername)  ](https://github.com/Yashitha12)
+GitHub: https://github.com/Yashitha12
 Email: yashithadissanayaka6@gmail.com
 
 ---
